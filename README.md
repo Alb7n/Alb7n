@@ -1,96 +1,119 @@
 <div align="center">
 
-# Hi, I'm Albin Shaji 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123B70,100:00D4FF&height=220&section=header&text=ALBIN%20SHAJI&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descSize=16&descAlignY=58&animation=fadeIn" />
 
-### Computer Science & Engineering Student | Developer | Lifelong Learner
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Development+Enthusiast;Exploring+AI%2FML+%26+Blockchain;Turning+ideas+into+working+projects" alt="Typing SVG" />
+</a>
 
-Building practical projects while exploring full-stack development, AI/ML, and blockchain.
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Alb7n?label=Followers&style=flat&logo=github)](https://github.com/Alb7n)
-[![Profile views](https://komarev.com/ghpvc/?username=Alb7n&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Alb7n)
+[![GitHub followers](https://img.shields.io/github/followers/Alb7n?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827)](https://github.com/Alb7n)
+[![Profile views](https://komarev.com/ghpvc/?username=Alb7n&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge)](https://github.com/Alb7n)
 
 </div>
 
 ---
 
-## About Me
+## ◈ ABOUT ME
 
-- 🎓 B.Tech student in Computer Science and Engineering at **Lovely Professional University**.
-- 💻 Interested in building useful applications and solving problems through code.
-- 🌱 Currently strengthening my foundations in **Python, Java, Data Structures & Algorithms, and Operating Systems**.
-- 🔍 Exploring **Full-Stack Development, AI/ML, and Blockchain/Web3**.
-- 🎯 Focused on improving my problem-solving skills and developing reliable, real-world projects.
+- 🎓 B.Tech Computer Science & Engineering student at **Lovely Professional University**.
+- ⚡ I enjoy turning ideas into practical software projects.
+- 🌱 Currently sharpening my skills in **Python, Java, DSA, and Operating Systems**.
+- 🧠 Exploring **Full-Stack Development, AI/ML, and Blockchain/Web3**.
+- 🎯 Interested in writing clean code, solving problems, and learning by building.
 
-## Featured Projects
+## ◈ FEATURED BUILDS
 
-### [MovieFlix](https://github.com/Alb7n/movieflix)
-A responsive movie discovery web application.
-- Built a modern interface with movie search, genre discovery, and trending titles.
-- Added movie details and a watchlist with browser-based persistence.
-- Integrated a server-side TMDB API proxy to keep the API token out of frontend code.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### WeCare — Food Delivery Platform
-- Developed a food-delivery application using **Next.js, React, Prisma, and SQLite**.
-- Implemented cart state management and an admin panel with role-based access control.
-- Worked on audit logging, data export, and operational controls.
+### 🎬 MovieFlix
+**Movie discovery platform**
 
-### Resume Screening System
-- Built a resume screening application with a **Python Flask** backend.
-- Added PDF/DOCX parsing and job-description-based candidate matching.
-- Used **TF-IDF** and **cosine similarity** to rank resume relevance.
+- Responsive movie browsing experience.
+- Search, trending titles, genres, and movie details.
+- Persistent watchlist and server-side TMDB API proxy.
 
-### Blockchain Certificate Verification
-- Explored certificate verification using blockchain-based records and **NFT concepts**.
-- Worked with **IPFS** for decentralised document storage.
-- Focused on making certificate authenticity easier to verify.
+[↗ View repository](https://github.com/Alb7n/movieflix)
 
-## Technical Skills
+</td>
+<td width="50%" valign="top">
 
-**Languages**
+### 🍽️ WeCare
+**Food delivery platform**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Built with Next.js, React, Prisma, and SQLite.
+- Cart state management and admin panel.
+- Role-based access, audit logs, and data export.
 
-**Web & Frameworks**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### 🧠 Resume Screening
+**NLP-powered resume matching**
 
-**Tools & Technologies**
+- Python Flask backend.
+- PDF/DOCX resume parsing.
+- TF-IDF and cosine similarity ranking.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-## GitHub Stats
+### ⛓️ Certificate Verification
+**Blockchain-based verification concept**
 
-<div align="center">
+- NFT-based certificate records.
+- IPFS for decentralised document storage.
+- Focus on verifiable digital credentials.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alb7n&show_icons=true&hide_border=true&rank_icon=github" alt="Albin's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alb7n&layout=compact&hide_border=true" alt="Most used programming languages" />
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=Alb7n&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## Let's Connect
-
-- 📧 **Email:** [albinsha33@gmail.com](mailto:albinsha33@gmail.com)
-- 💻 **GitHub:** [github.com/Alb7n](https://github.com/Alb7n)
-
----
+## ◈ TECH STACK
 
 <div align="center">
 
-*Learning by building. Improving one project at a time.*
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,python,java,js,sql" />
+
+**WEB DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flask,nodejs" />
+
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=git,github,rust,solidity,prisma,sqlite" />
 
 </div>
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alb7n&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alb7n&layout=compact&hide_border=true&theme=tokyonight" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Alb7n&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alb7n&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+## ◈ CONNECT
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinsha33@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Alb7n-111827?style=for-the-badge&logo=github)](https://github.com/Alb7n)
+
+**Open to learning, collaborating, and building something meaningful.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:123B70,100:050816&height=110&section=footer" />
