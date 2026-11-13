@@ -1,29 +1,96 @@
-<h1 align="center">Heyy, Im AlbiN ShajI</h1>
-<h3 align="center">CS student figuring things out by building</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alb7n&label=Profile%20views&color=0e75b6&style=flat" alt="alb7n" /> </p>
+# Hi, I'm Albin Shaji 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alb7n" alt="alb7n" /></a> </p>
+### Computer Science & Engineering Student | Developer | Lifelong Learner
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Building practical projects while exploring full-stack development, AI/ML, and blockchain.
 
-- 🔭 I’m currently working on **ME**
+[![GitHub followers](https://img.shields.io/github/followers/Alb7n?label=Followers&style=flat&logo=github)](https://github.com/Alb7n)
+[![Profile views](https://komarev.com/ghpvc/?username=Alb7n&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Alb7n)
 
-- 🌱 I’m currently learning **JAVA**
+</div>
 
-- 💬 Ask me about **python ·**
+---
 
-- 📫 How to reach me **albinsha33@Gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🎓 B.Tech student in Computer Science and Engineering at **Lovely Professional University**.
+- 💻 Interested in building useful applications and solving problems through code.
+- 🌱 Currently strengthening my foundations in **Python, Java, Data Structures & Algorithms, and Operating Systems**.
+- 🔍 Exploring **Full-Stack Development, AI/ML, and Blockchain/Web3**.
+- 🎯 Focused on improving my problem-solving skills and developing reliable, real-world projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alb7n&show_icons=true&locale=en&layout=compact" alt="alb7n" /></p>
+### [MovieFlix](https://github.com/Alb7n/movieflix)
+A responsive movie discovery web application.
+- Built a modern interface with movie search, genre discovery, and trending titles.
+- Added movie details and a watchlist with browser-based persistence.
+- Integrated a server-side TMDB API proxy to keep the API token out of frontend code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alb7n&show_icons=true&locale=en" alt="alb7n" /></p>
+### WeCare — Food Delivery Platform
+- Developed a food-delivery application using **Next.js, React, Prisma, and SQLite**.
+- Implemented cart state management and an admin panel with role-based access control.
+- Worked on audit logging, data export, and operational controls.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alb7n&" alt="alb7n" /></p>
+### Resume Screening System
+- Built a resume screening application with a **Python Flask** backend.
+- Added PDF/DOCX parsing and job-description-based candidate matching.
+- Used **TF-IDF** and **cosine similarity** to rank resume relevance.
+
+### Blockchain Certificate Verification
+- Explored certificate verification using blockchain-based records and **NFT concepts**.
+- Worked with **IPFS** for decentralised document storage.
+- Focused on making certificate authenticity easier to verify.
+
+## Technical Skills
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Web & Frameworks**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alb7n&show_icons=true&hide_border=true&rank_icon=github" alt="Albin's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alb7n&layout=compact&hide_border=true" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=Alb7n&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Let's Connect
+
+- 📧 **Email:** [albinsha33@gmail.com](mailto:albinsha33@gmail.com)
+- 💻 **GitHub:** [github.com/Alb7n](https://github.com/Alb7n)
+
+---
+
+<div align="center">
+
+*Learning by building. Improving one project at a time.*
+
+</div>
